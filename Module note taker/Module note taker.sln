@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module note taker", "Module note taker\Module note taker.csproj", "{E61A2649-6A1A-4329-92BB-0B65A35EB479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E61A2649-6A1A-4329-92BB-0B65A35EB479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E61A2649-6A1A-4329-92BB-0B65A35EB479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E61A2649-6A1A-4329-92BB-0B65A35EB479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E61A2649-6A1A-4329-92BB-0B65A35EB479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\bin\Debug\Module note taker.exe.config
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\bin\Debug\Module note taker.exe
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\bin\Debug\Module note taker.pdb
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module note taker.csprojResolveAssemblyReference.cache
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module_note_taker.Form1.resources
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module_note_taker.Properties.Resources.resources
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module note taker.csproj.GenerateResource.Cache
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module note taker.exe
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module note taker.pdb
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module_note_taker.Notes.resources
+E:\lcs\Programming and data structures\assignment 2\Module note taker\Module note taker\obj\Debug\Module_note_taker.newmodule.resources
