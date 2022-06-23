@@ -17,8 +17,8 @@ namespace Module_note_taker
         public Form1() // starting point of form application
         {
             InitializeComponent();
-            string file = Path.GetFullPath(@"modules\");
-            string[] Addresses = Directory.GetFiles(file);
+            string rootFolder = Path.GetFullPath(@"../../modules/");
+            string[] Addresses = Directory.GetFiles(rootFolder);
             string[,] modules = new string[(Addresses.Length), 15];
             int count = 0;
 
